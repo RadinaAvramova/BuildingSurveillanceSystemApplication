@@ -1,2 +1,1 @@
 # BuildingSurveillanceSystemApplication
-BuildingSurveillanceSystemApplication
